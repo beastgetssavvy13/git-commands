@@ -1,8 +1,8 @@
 Git Commands
 ============
-### Author : _KAVISH PANDIT_
 
-_A list of my commonly used Git commands_
+## :busts_in_silhouette: Author
+- [Kavish Pandit](https://github.com/beastgetsssavvy13)
 
 ### Getting & Creating Projects
 
