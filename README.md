@@ -1,9 +1,10 @@
-Git Commands
+
+:card_file_box: Git Commands
 ============
 ### Author : _KAVISH PANDIT
 
 _A list of my commonly used Git commands_
-
+:octocat: 
 
 ### Getting & Creating Projects
 
